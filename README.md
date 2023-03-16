@@ -1,3 +1,5 @@
+NAME: RHEA
+
 # Year-11-CS-Unit-6-Classes-Tutorial-ZombiePlant
 
 Your job is to create one class called ZombiePlant. 
